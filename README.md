@@ -35,7 +35,6 @@ To get started with Trackly, follow these steps:
 3. **Run the application**:
 
    ```bash
-   # Start the backend server
    npm run dev
 
 ## Usage
