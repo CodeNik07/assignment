@@ -1,6 +1,6 @@
 # Pokémon Gallery
 
-A simple React application that displays Pokémon data fetched from the [PokeAPI](https://pokeapi.co/). The app presents Pokémon data in a card format with images and includes a search functionality to filter Pokémon by name.
+A simple React application that displays Pokémon data fetched from the [PokeAPI](https://pokeapi.co/api/v2/pokemon). The app presents Pokémon data in a card format with images and includes a search functionality to filter Pokémon by name.
 
 ## Table of Contents
 
@@ -23,13 +23,13 @@ To get started with Trackly, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/pokemon-gallery.git
+   git clone https://github.com/CodeNik07/assignment.git
 
    ```
 
 2. **Install dependencies** for both frontend and backend:
    ```bash
-   cd pokemon-gallery
+   cd assignment
    npm install
    ```
 3. **Run the application**:
@@ -43,7 +43,7 @@ To get started with Trackly, follow these steps:
 2. Use the search bar at the top to filter Pokémon by their names.
 3. Clear the search bar to return to the full list of Pokémon.
 
-## Technology used
+## Technologies Used
 
 - **Frontend** :<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
